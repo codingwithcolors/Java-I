@@ -14,7 +14,7 @@ In this game, you play as a child dressed in a witch costume who got lost while 
 - Use WASD to control the player
 - Collect all the candy and keys to advance to the next level
 - Hurry to the exit before your character loses all their hunger
-- Avoid the ghost <img src="Assets/ghost.png" alt="Ghost Icon" width="20"/>
+- Avoid the ghost <img src="Assets/ghost.png" alt="Ghost Icon" width="24"/>
 
 ## Distribution and Credits
 - Code: Amber Williams and Dominique Ketchens
