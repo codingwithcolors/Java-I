@@ -7,12 +7,16 @@ This is a two week Java group project to create additional features from a maze 
 Original base maze game demo by Ted Holmberg: [mazegame-lab](https://gitlab.com/scalemailted/mazegame-lab)
 
 ## Introduction
-In this game, you play as a child dressed in a witch costume who got lost while trick or treating during Halloween. You have to gather your candy, find the house key that you dropped earlier, and hurry back home before the night is over. But be warned, not everything is as it seems. As soon as you think you are home, a ghost teleports you farther away. Will you survive this Halloween night? Or be haunted forever by the ghost?...never returning back home.
+In this game, you play as a child dressed in a witch costume who got lost while trick or treating during Halloween. You have to gather your candy, find the house key that you dropped earlier, and hurry back home before the night is over. But be warned, not everything is as it seems. As soon as you think you are home, a ghost teleports you farther away. Will you survive this Halloween night? Or be haunted forever by the ghost?...never returning back home. Good luck.
 
 ## How to play the game:
 - Compile and run the "MazeGame.java" file.
 - Use WASD to control the player
 - Collect all the candy and keys to advance to the next level
 - Hurry to the exit before your character loses all their hunger
-- Avoid the ghost <img src="Assets/ghost.png" alt="Ghost Icon" width="16"/>
+- Avoid the ghost <img src="Assets/ghost.png" alt="Ghost Icon" width="20"/>
 
+## Distribution and Credits
+- Code: Amber Williams and Dominique Ketchens
+- Additional Art Assets: Dominique Ketchens
+- Music and SFX: All sounds first came from freesound.org with some changes using Adobe Audition.
